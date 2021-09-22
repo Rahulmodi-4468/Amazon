@@ -1,0 +1,10 @@
+C1 Health Care
+C2 Health Appliances
+C3 Mobile & Accesories
+C4 Computer & laptop
+C5 Electronics
+C6 Fashion
+C7 Furniture
+C8 Books
+C9 SDFBKDB
+

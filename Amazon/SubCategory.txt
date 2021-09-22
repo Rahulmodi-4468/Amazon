@@ -1,0 +1,13 @@
+S1 earbuds C3
+S2 mobile C3
+S3 charger C3
+S4 television C5
+S5 Refrigirator C5
+S6 aircondition C5
+S7 thermomiter C2
+S8 oximeter C2
+S9 man C6
+S10 women C6
+S11 RichDad PoorDad C8
+S12 Hockey-The Game C8
+

@@ -1,0 +1,7 @@
+P1 samusng Guru 1200 1230 10 S2
+P2 nokia nokia 1800 1800 7 S2
+P3 vivoy73 octacore 22000 30 S2
+P4 Sunsui smart-40inch 35000 20 S4 
+P5 apple smart-32inch 95000 5 S4
+P6 nusia smart-30inch 15000 4 S4
+
